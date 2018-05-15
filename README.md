@@ -9,4 +9,4 @@ Plot unique fractions between 0 and 1 on a polar plot.
 r = denominator
 ```
 
-See [Unique Fractions.ipynb](Unique Fractions.ipynb) for calculation and plots.
+See [Unique Fractions.ipynb](Unique+Fractions.ipynb) for calculation and plots.
